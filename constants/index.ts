@@ -1,4 +1,4 @@
-export const MAX_VIDEO_SIZE = 500 * 1024 * 1024;
+/*export const MAX_VIDEO_SIZE = 500 * 1024 * 1024;
 export const MAX_THUMBNAIL_SIZE = 10 * 1024 * 1024;
 
 export const BUNNY = {
@@ -19,13 +19,13 @@ export const filterOptions = [
 ];
 
 export const visibilities: Visibility[] = ["public", "private"];
-
+*/
 export const ICONS = {
   record: "/assets/icons/record.svg",
   close: "/assets/icons/close.svg",
   upload: "/assets/icons/upload.svg",
 };
-
+/*
 export const initialVideoState = {
   isLoaded: false,
   hasIncrementedView: false,
@@ -68,12 +68,6 @@ export const filterOptions = [
 ];
 
 export const visibilities: Visibility[] = ["public", "private"];
-
-export const ICONS = {
-  record: "/assets/icons/record.svg",
-  close: "/assets/icons/close.svg",
-  upload: "/assets/icons/upload.svg",
-};
 
 export const initialVideoState = {
   isLoaded: false,
@@ -186,3 +180,4 @@ export const dummyCards = [
     duration: 345,
   }
 ]
+*/
